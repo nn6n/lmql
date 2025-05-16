@@ -7,7 +7,7 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-    "cytoscape": "^3.23.0",
+    "cytoscape": "^3.31.2",
     "cytoscape-dagre": "^2.5.0",
     "gh-pages": "^5.0.0",
     "monaco-themes": "^0.4.3",

@@ -3,3 +3,4 @@ pydata-sphinx-theme==0.13.1
 sphinx_book_theme
 nbsphinx==0.9.1
 IPython
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability

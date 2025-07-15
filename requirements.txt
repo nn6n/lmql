@@ -2,6 +2,6 @@ astunparse==1.6.3
 openai
 termcolor
 pydot
-transformers==4.25.1
+transformers==4.52.0
 pandas
 accelerate
